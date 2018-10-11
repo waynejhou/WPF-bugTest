@@ -24,5 +24,10 @@ namespace WPF_bugTest
         {
             InitializeComponent();
         }
+
+    }
+    public class MainViewModel
+    {
+
     }
 }
